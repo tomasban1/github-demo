@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node -- watch js/pirmas/index.js"
+    "dev": "node -- watch js/pirmas/naujas-failas.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
